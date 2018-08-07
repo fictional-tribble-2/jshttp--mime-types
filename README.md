@@ -1,6 +1,6 @@
 # mime-types
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/jshttp--mime-types.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/jshttp--mime-types.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/jshttp--mime-types.svg)](https://www.guardrails.io)
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
